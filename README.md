@@ -47,7 +47,7 @@ I'm a motivated cybersecurity professional building my career in information sec
 ### 🤝 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/arnorjuliusson/)
 - [TryHackMe](https://tryhackme.com/p/mrciano)
-- [HackTheBox]() 
+- [HackTheBox](https://app.hackthebox.com/users/2477584) 
 
 ---
 *"The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards." — Gene Spafford*
